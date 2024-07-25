@@ -3,7 +3,7 @@
 # * - Un Anagrama consiste en formar una palabra reordenando TODAS
 # *   las letras de otra palabra inicial.
 # * - NO hace falta comprobar que ambas palabras existan
-# * - Dos palabras exactamente iguales no son anagrama.
+# * - Dos palabras exactamente iguales no son anagrama
 
 def anagrama(palabra1,palabra2):
     if palabra1 == palabra2:
